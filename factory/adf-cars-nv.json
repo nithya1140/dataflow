@@ -1,0 +1,9 @@
+{
+	"name": "adf-cars-nv",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b08874e6-ba68-4ceb-b974-eb23acf4f183",
+		"tenantId": "01dec42b-19ea-4681-bd9a-f93e8ac00c37"
+	}
+}
